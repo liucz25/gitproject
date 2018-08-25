@@ -1,0 +1,16 @@
+   54  git push
+   55  git remote add origin git@github.com:liucz25/gitproject.git
+   56  git push -u origin master
+   57  git remote
+   58  cd o
+   59  cd origin
+   60  cd ..
+   61  git remote add origin git@github.com:liucz25/gitproject.git
+   62  git push -u origin master
+   63  git status
+   64  git add .
+   65  git commit -m "python3-2.2-qian"
+   66  git push -u origin master
+   67  hist
+   68  histopy
+   69  history
