@@ -1,0 +1,14 @@
+xiazai
+download
+    1  ls
+    2  cd Code
+    3  ls
+    4  git clone https://github.com/liucz25/gitproject.git
+shangchuan
+upload   
+   63  cd Code/gitproject
+   64  git add ./
+   67  git config --global user.name "liucz"
+   68  git config --global user.email "liuchangzheng25@163.com\n"
+   69  git commit -m "while"
+   73  git push https://github.com/liucz25/gitproject.git

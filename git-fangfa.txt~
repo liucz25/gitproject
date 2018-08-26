@@ -1,0 +1,73 @@
+    1  ls
+    2  cd Code
+    3  ls
+    4  git clone https://github.com/liucz25/gitproject.git
+    5  ls
+    6  cd gitproject
+    7  ls
+    8  cd py3
+    9  ls
+   10  cd ~
+   11  cp ./Code/gitproject/py3/* ./
+   12  ls
+   13  vim powerseries.py
+   14  python
+   15  vim powerseries.py
+   16  chmod +x ./powerseries.py
+   17  ./powerseries.py
+   18  vim powerseries.py
+   19  ./powerseries.py
+   20  vim powerseries.py
+   21  ./powerseries.py
+   22  vim powerseries.py
+   23  cp ./powerseries.py ./Code/gitproject/py3
+   24  cls
+   25  cls()\n\n;\n:
+   26  clear
+   27  python3
+   28  vim multiplication.py
+   29  python multiplication.py
+   30  vim multiplication.py
+   31  python multiplication.py
+   32  vim multiplication.py
+   33  python multiplication.py
+   34  chomd +x multiplication.py
+   35  chmod +x multiplication.py
+   36  ./multiplication.py
+   37  python3 multiplication.py
+   38  cp ./multiplication.py ./Code/gitproject/py3
+   39  vim multiplication.py
+   40  ./multiplication.py
+   41  vim multiplication.py
+   42  ./multiplication.py
+   43  mv ./multiplication.py ./multiplication2.py
+   44  cp ./multiplication2.py ./Code/gitproject/py3
+   45  cp ./Code/gitproject/py3/multiplication.py ./
+   46  ls
+   47  vim *.py
+   48  sudo apt-get instll sublime
+   49  sudo apt-get install sublime
+   50  chmod +x ./\*.py
+   51  ./\*.py
+   52  mv ./\*.py design1.py
+   53  ./design1.py
+   54  cp ./design1.py ./Code/gitproject/py3
+   55  ./design2.py
+   56  chmod +x ./design2.py
+   57  ./design2.py
+   58  ./design3.py
+   59  chmod +x ./design3.py
+   60  ./design3.py
+   61  cp ./design2.py ./Code/gitproject/py3
+   62  cp ./design3.py ./Code/gitproject/py3
+   63  cd Code/gitproject
+   64  git add ./
+   65  git commit -m "while"
+   66  git config --global user.emal "liuchangzheng25@163.com\n"
+   67  git config --global user.name "liucz"
+   68  git config --global user.email "liuchangzheng25@163.com\n"
+   69  git commit -m "while"
+   70  git push
+   71  git push origen master
+   72  git push master
+   73  git push https://github.com/liucz25/gitproject.git
