@@ -1,1 +1,18 @@
 python简明教程笔记
+
+print（“some text{:6.10f}”.format()）
+浮点型，整数部分默认六位，小数部分10位
+format(i*n),format 的（）中能加表达式
+
+list []
+[a:b:c]切片，a起始，b结束，c步长，abc可省略，可负值
+如果你想要检查列表是否为空，请这样做：
+
+if list_name: # 列表不为空
+    pass
+else: # 列表为空
+    pass
+    
+内置函数 range() 生成一个等差数列（并不是列表）：
+list(range(4, 15, 2))
+[4, 6, 8, 10, 12, 14]
