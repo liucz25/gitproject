@@ -8,7 +8,7 @@ def mth(min):
         
     h=int(min / 60)
     m=min%60
-    print (h," H,",m,"M")
+    print (h,"H,",m,"M")
 def main ():
     try:
         if min >= 0:
@@ -16,5 +16,5 @@ def main ():
         else:
             raise ValueError
     except ValueError:
-        print("Input number connet be negative")
+        print("ValueError:Input number cannot be negative")
 main()
