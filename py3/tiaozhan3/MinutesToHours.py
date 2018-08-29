@@ -1,4 +1,4 @@
-#!/usr/bin/env p://github.com/liucz25/gitproject.git
+#!/usr/bin/env python3 
 import sys
 
 #print ("canshu1",sys.argv[0])
